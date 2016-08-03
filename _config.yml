@@ -1,7 +1,7 @@
 name: SITE DO ARTUR
 favicon: null
-layout_spectrum: 0.3602438955567777
-typography_spectrum: 0.029645210597664118
+layout_spectrum: 0.24697
+typography_spectrum: 0.48787
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3743156776763499
+  brandStrength: 0.5
   lightness: 0.8779308907687664
-  saturation: 0.17523751710541546
+  saturation: 0.375
   rhythmicContrast: 0.6733059491962194
 purpose: []
