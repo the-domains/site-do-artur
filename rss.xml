@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SITE DO ARTUR]]></title>
-        <description><![CDATA[SITE DO ARTUR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[in to thegrid]]></title>
+        <description><![CDATA[in to thegrid]]></description>
+        <link>https://thegrid.ai/aduhs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 13:25:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 17:15:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aduhs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[kasdkasdkjaskdjaskjdaksjdasd]]></title>
+            <description><![CDATA[<article><h1>kasdkasdkjaskdjaskjdaksjdasd</h1><p>asdasdasdasdasdasdasdasdjaljsnln</p></article>]]></description>
+            <link>https://thegrid.ai/aduhs/kasdkasdkjaskdjaskjdaksjdasd/index.html</link>
+            <guid isPermaLink="false">68198f04-79c2-4f85-a2eb-ee1944f8b7cd</guid>
+            <pubDate>Thu, 04 Aug 2016 17:15:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2689056-01af-485b-b170-f79f6cedae33.png">]]></description>
-            <link>undefinedesse-e-o-primeiro-teste-do-thegrid-libres/index.html</link>
+            <link>https://thegrid.ai/aduhs/esse-e-o-primeiro-teste-do-thegrid-libres/index.html</link>
             <guid isPermaLink="false">1b162c19-b393-447f-8ce4-f21575f6aac5</guid>
             <pubDate>Wed, 03 Aug 2016 13:24:56 GMT</pubDate>
         </item>
